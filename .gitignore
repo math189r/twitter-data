@@ -1,0 +1,6 @@
+.DS_Store
+
+config_*.json
+
+*.pyc
+__pychache__

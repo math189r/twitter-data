@@ -1,0 +1,15 @@
+{"config": "config_positive.json", "rate": 2.7805000668035587, "elapsed": 48.912065, "start_utc": "06:51  22-$m-2016", "seen": 136}
+{"seen": 101, "config": "config_negative.json", "start_utc": "06:56  22-$m-2016", "rate": 2.2048111511576614, "elapsed": 45.808912}
+{"config": "config_negative.json", "rate": 2.234068239822027, "seen": 2324, "start_utc": "06:44  22-$m-2016", "elapsed": 1040.254706}
+{"errors": 0, "config": "config_negative.json", "seen": 41, "rate": 2.3010804358381045, "start_utc": "07:05  22-$m-2016", "elapsed": 17.817717}
+{"errors": 0, "elapsed": 22.799256, "seen": 87, "config": "config_positive.json", "start_utc": "07:01  22-$m-2016", "rate": 3.815913992982929}
+{"config": "config_positive.json", "rate": 5.229103054959028, "seen": 266635, "start_utc": "07:31  22-05-2016", "errors": 122, "elapsed": 50990.580449}
+{"rate": 3.361020189291206, "start_utc": "07:33  22-05-2016", "errors": 60, "config": "config_negative.json", "seen": 171378, "elapsed": 50989.875201}
+{"errors": 0, "seen": 16, "elapsed": 2.58952, "start_utc": "21:38  22-05-2016", "config": "config_negative.json", "rate": 6.178751274367451}
+{"rate": 3.5153252361331844, "start_utc": "21:45  22-05-2016", "config": "config_positive.json", "seen": 10, "elapsed": 2.844687, "errors": 0}
+{"config": "config_positive.json", "start_utc": "21:58  22-05-2016", "seen": 14, "rate": 3.167961231395582, "elapsed": 4.419246, "errors": 0}
+{"errors": 0, "seen": 13, "config": "config_positive.json", "rate": 2.4840205822123873, "elapsed": 5.233451, "start_utc": "21:08  22-05-2016"}
+{"elapsed": 4.003045, "seen": 11, "start_utc": "21:07  22-05-2016", "rate": 2.747908154917069, "config": "config_positive.json", "errors": 0}
+{"start_utc": "02:51  26-05-2016", "config": "config_positive.json", "seen": 220013, "errors": 143, "elapsed": 46606.835466, "rate": 4.720616574804804}
+{"config": "config_negative.json", "start_utc": "02:15  26-05-2016", "rate": 3.8825776350681767, "errors": 180, "elapsed": 93560.782074, "seen": 363257}
+{"seen": 13542, "config": "config_positive.json", "elapsed": 2721.700747, "errors": 19, "start_utc": "04:24  27-05-2016", "rate": 4.9755653757771485}
