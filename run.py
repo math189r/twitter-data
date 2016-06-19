@@ -5,7 +5,7 @@ import sys
 
 import tweepy
 
-import db
+import handlers
 import stream
 
 def main():
@@ -20,7 +20,7 @@ def main():
     # capture command line args
     parser = argparse.ArgumentParser()
     parser.add_argument('-c', '--config',
-            help='path to the json config file containing Twitter auth and db params, etc.')
+            help='path to the json config file containing Twitter auth and handlers params, etc.')
     args = parser.parse_args()
 
     # load config file from json
@@ -29,9 +29,9 @@ def main():
 
     # pick handler to use based on config
     if config['handler'] == 'print':
-        handler = db.PrintHandler(config)
+        handler = handlers.PrintHandler(config)
     elif config['handler'] == 'postgres':
-        handler = db.PostgresHandler(config)
+        handler = handlers.PostgresHandler(config)
 
     # create streamer with given handler
     listener = stream.TweetListener(handler)
